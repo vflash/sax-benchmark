@@ -1,0 +1,34 @@
+{
+    "name": "sax-benchmark",
+    "description": "sax benchmark",
+    "scripts": {
+        "benchmark": "node ./bench-02.js"
+    },
+    "keywords": [
+        "js",
+        "xml",
+        "sax",
+        "parser",
+        "benchmark"
+    ],
+    "version": "0.1.0",
+    "bugs": {
+        "url": "https://github.com/vflash/sax-benchmark/issues"
+    },
+    "author": {
+        "name": "Vopilovskiy Konstantin",
+        "email": "flash.vkv@gmail.com",
+        "url": "http://vflash.ru"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vflash/sax-benchmark"
+    },
+    "devDependencies": {
+        "easysax": "^0.1.14",
+        "libxmljs": "^0.18.7",
+        "ltx": "^2.7.1",
+        "node-expat": "^2.3.16",
+        "sax": "^1.2.4"
+    }
+}
