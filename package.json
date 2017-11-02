@@ -25,10 +25,10 @@
         "url": "https://github.com/vflash/sax-benchmark"
     },
     "devDependencies": {
-        "easysax": "^0.1.14",
-        "libxmljs": "^0.18.7",
-        "ltx": "^2.7.1",
-        "node-expat": "^2.3.16",
-        "sax": "^1.2.4"
+        "easysax": "*",
+        "libxmljs": "*",
+        "ltx": "*",
+        "node-expat": "*",
+        "sax": "*"
     }
 }
