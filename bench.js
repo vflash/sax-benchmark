@@ -451,6 +451,7 @@ function test_EasySax_on_on_on() {
         'http://search.yahoo.com/mrss/': 'media',
         'http://www.georss.org/georss': 'georss',
         'http://schemas.google.com/g/2005': 'gd',
+        'http://www.bloglines.com/about/specs/fac-1.0': 'fac',
     };
 
     var parser = new EasySax({
